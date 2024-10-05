@@ -91,6 +91,7 @@ plt.show()
 
 ```
 ![image](https://github.com/user-attachments/assets/64156743-73e6-4a2f-b4de-4622190eaa8f)
+
 #### Threshold Image (Binary Inverse)
 ```py
 
@@ -103,6 +104,7 @@ plt.show()
 
 ```
 ![image](https://github.com/user-attachments/assets/4a1bedfc-4707-4f33-9287-f7c76c20ca4a)
+
 #### Threshold Image (To Zero)
 ```py
 
