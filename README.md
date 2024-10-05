@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d943d06b-4e96-4bff-a454-c68598072cef)# THRESHOLDING
+
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
